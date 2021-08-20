@@ -149,4 +149,6 @@ scene("death", (score) => {
 	mouseClick(() => go("main"));
 });
 
-go("main");
+function loadingGame() {
+    go('main');
+}

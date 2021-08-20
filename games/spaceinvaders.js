@@ -149,4 +149,4 @@ scene("death", (score) => {
 	mouseClick(() => go("main"));
 });
 
-go("main");
+// go("main");

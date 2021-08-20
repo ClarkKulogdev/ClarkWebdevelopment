@@ -53,7 +53,7 @@ p {
 #d1 {
 
 	background-color:lightblue;
-
+	margin: 10px;
 
 
 }
@@ -61,6 +61,7 @@ p {
 #d2 {
 
 	background-color:lightblue;
+	margin: 10px;
 
 
 
@@ -69,7 +70,7 @@ p {
 #d3 {
 
 	background-color:lightblue;
-
+	margin: 10px;
 }
 /*.row {
 	width: 100%;
